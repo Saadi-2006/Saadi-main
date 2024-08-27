@@ -1,0 +1,6 @@
+#This is my first python project
+name = "Muhammad Saad kamran"
+age = 18
+print(f"My first name is {name}")
+print(f"My age is {age}")
+print("Hello")
