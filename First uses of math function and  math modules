@@ -1,0 +1,6 @@
+#        To find hypotenus of right triangle
+import math
+a=int(input("Enter base  :  "))
+b=int(input("Enter perpendicular :"))
+c=round(math.sqrt(pow(a,2)+pow(b,2)),3)
+print(f"Hypotenus of a right triangle = {c}")
